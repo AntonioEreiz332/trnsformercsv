@@ -104,7 +104,19 @@
             "1.a",
             "1.b",
             "1.c",
-            "1.d"});
+            "1.d",
+            "2.a",
+            "2.b",
+            "2.c",
+            "2.d",
+            "3.a",
+            "3.b",
+            "3.c",
+            "3.d",
+            "4.a",
+            "4.b",
+            "4.c",
+            "4.d"});
             this.cmbRazredUnos.Location = new System.Drawing.Point(16, 205);
             this.cmbRazredUnos.Name = "cmbRazredUnos";
             this.cmbRazredUnos.Size = new System.Drawing.Size(354, 21);

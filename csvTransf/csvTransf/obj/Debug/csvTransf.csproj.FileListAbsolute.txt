@@ -9,3 +9,5 @@ C:\Users\toni-PC\source\repos\csvTransf\csvTransf\obj\Debug\csvTransf.csproj.Gen
 C:\Users\toni-PC\source\repos\csvTransf\csvTransf\obj\Debug\csvTransf.csproj.CoreCompileInputs.cache
 C:\Users\toni-PC\source\repos\csvTransf\csvTransf\obj\Debug\csvTransf.exe
 C:\Users\toni-PC\source\repos\csvTransf\csvTransf\obj\Debug\csvTransf.pdb
+C:\Users\toni-PC\source\repos\csvTransf\csvTransf\obj\Debug\csvTransf.FormPrikaz.resources
+C:\Users\toni-PC\source\repos\csvTransf\csvTransf\obj\Debug\csvTransf.FromFiltriranje.resources

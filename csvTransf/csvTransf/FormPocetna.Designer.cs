@@ -62,6 +62,7 @@
             this.button2.TabIndex = 2;
             this.button2.Text = "&Prikaz";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // FormPocetna
             // 
@@ -74,7 +75,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MinimizeBox = false;
             this.Name = "FormPocetna";
-            this.Text = "Form1";
+            this.Text = "CSV Transformer";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 

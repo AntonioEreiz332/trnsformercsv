@@ -22,5 +22,11 @@ namespace csvTransf
             FormUnosPodatka frmUnos = new FormUnosPodatka();
             frmUnos.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            FormPrikaz frmPrikz = new FormPrikaz();
+            frmPrikz.Show();
+        }
     }
 }
